@@ -5,4 +5,5 @@ fittingvoila: https://mybinder.org/v2/gh/mohlabib/ModellingCH1/HEAD?urlpath=voil
 
 RKvoila: https://mybinder.org/v2/gh/mohlabib/ModellingCH1/HEAD?urlpath=voila%2Frender%2Frkvoila.ipynb
 
-montecarlovoila: https://mybinder.org/v2/gh/mohlabib/ModellingCH1/HEAD?labpath=voila%2Frender%2Fmontecarlovoila.ipynb
+montecarlovoila: https://mybinder.org/v2/gh/mohlabib/ModellingCH1/HEAD?urlpath=voila%2Frender%2Fmontecarlovoila.ipynb
+
