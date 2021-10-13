@@ -6,3 +6,4 @@ ipywidgets==7.5.1
 bqplot
 nbformat >= 5.0
 nbconvert >= 6.0
+voila
